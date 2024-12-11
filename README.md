@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harshit Bisht</h1>
-<h3 align="center">DevOps Engineer | Cloud Native Enthusiast | Automation Architect specializing in Kubernetes, Azure, and AWS infrastructure</h3>
+<h3 align="center">DevOps Engineer | Cloud Native Enthusiast | Automation  specializing in Kubernetes, Azure, and AWS infrastructure</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I'm currently exploring advanced cloud-native technologies and DevOps methodologies
 
 - 🌱 Currently diving deeper into **Kubernetes, Terraform, and Cloud Infrastructure Automation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harshitbisht108?tab=repositories](https://github.com/harshitbisht108?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/bisharsh?tab=repositories](https://github.com/bisharsh?tab=repositories)
 
 - 💬 Ask me about **DevOps, Kubernetes, Azure/AWS, CI/CD Pipelines**
 
@@ -30,8 +29,8 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbisht108&show_icons=true&locale=en&layout=compact" alt="harshitbisht108" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bisharsh&show_icons=true&locale=en&layout=compact" alt="bisharsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitbisht108&show_icons=true&locale=en" alt="harshitbisht108" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bisharsh&show_icons=true&locale=en" alt="bisharsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbisht108&" alt="harshitbisht108" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bisharsh&" alt="bisharsh" /></p>
