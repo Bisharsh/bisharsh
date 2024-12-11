@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bisharsh?tab=repositories](https://github.com/bisharsh?tab=repositories)
 
-- 💬 Ask me about **DevOps, Kubernetes, Azure/AWS, CI/CD Pipelines**
+- 💬 Ask me about **DevOps, Kubernetes, Azure, AWS, CI/CD Pipelines**
 
 - 📫 Reach me at **harshit.bisht108@gmail.com**
 
