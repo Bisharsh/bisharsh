@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit !</h1>
+<h1 align="center">Hi, I'm Harshit !👋</h1>
 <h3 align="center">DevOps Engineer | Cloud Native Enthusiast | Automation Practitioner specializing in Kubernetes, Azure, and AWS infrastructure</h3>
 
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bisharsh?tab=repositories](https://github.com/bisharsh?tab=repositories)
 
-- 💬 Ask me about **DevOps, Kubernetes, Azure, AWS, CI/CD Pipelines**
+- 💬 Ask me about **DevOps, Kubernetes, Azure, AWS, GCP, CI/CD Pipelines**
 
 - 📫 Reach me at **harshit.bisht108@gmail.com**
 
