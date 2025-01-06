@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshit !👋</h1>
-<h3 align="center">DevOps Engineer | Cloud Native Enthusiast | Automation Practitioner specializing in Kubernetes, Azure, and AWS infrastructure</h3>
+<h3 align="center">DevOps Engineer | Cloud Native Enthusiast | Automation Practitioner specializing in Kubernetes, Azure, GCP and AWS infrastructure</h3>
 
 
 - 🔭 I'm currently exploring advanced cloud-native technologies and DevOps methodologies
